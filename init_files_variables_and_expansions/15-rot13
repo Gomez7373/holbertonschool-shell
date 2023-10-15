@@ -1,2 +1,2 @@
 #!/bin/bash
-alias root13="tr 'A-Za-z' 'N-Za-Mn-za-m'
+alias root13="tr 'A-Za-z' 'N-Za-Mn-za-m'"
