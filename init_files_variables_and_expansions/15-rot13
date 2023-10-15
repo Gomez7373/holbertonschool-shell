@@ -1,2 +1,2 @@
 #!/bin/bash
-alias tr '[A-Za-z]' '[N-Za-Mn-za-m]'
+rot13 alias tr '[A-Za-z]' '[N-Za-Mn-za-m]'
