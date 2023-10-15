@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello" | alias tr [A-Za-z] [N-Za-Mn-za-m]
+cat "hello" | alias tr '[A-Za-z]' '[N-Za-Mn-za-m]'
