@@ -1,2 +1,2 @@
 #!/bin/bash
-alias tr 'A-Za-z' 'N-ZA-Mn-za-m' | rot13 'N-Mn-m' 'A-MN-Za-mn-z'
+alias tr 'a-zA-Z' 'n-za-mN-ZA-M' 
