@@ -1,2 +1,2 @@
 #!/bin/bash
-cat rot.txt | tr 'a-zA-Z' 'n-za-mN-ZA-M'
+echo 'a-zA-Z' 'n-za-mN-ZA-M' | rot13
